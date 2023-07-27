@@ -1,4 +1,6 @@
+STILL MISSING:
 
+        Errorhandling 
 
 Before running the Plant Report Automation Script, make sure to configure the config.json file in the project directory. This configuration file contains important settings and credentials used by the script. Below is an overview of the sections in the config.json file:
     
