@@ -1,0 +1,4 @@
+opencv-python==4.5.3.56
+kivy==2.0.0
+paho-mqtt==1.5.1
+mysql-connector-python==8.0.26
